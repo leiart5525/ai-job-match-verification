@@ -1,0 +1,33 @@
+{
+  "notice": "公开职位观察示例；候选人是合成测试资料；不是全量搜索结果。",
+  "profile": {
+    "target": "用户增长运营",
+    "locations": [
+      "上海"
+    ],
+    "experience_years": 4,
+    "education": "本科",
+    "matching_ready": false
+  },
+  "jobs": [
+    {
+      "company": "Wellcee",
+      "title": "用户增长专员",
+      "location": "上海",
+      "url": "https://www.wellcee.com/cn/join-us/shanghai-team/17804766100738917",
+      "relevance": "Directly Relevant",
+      "relevance_reason": "职责围绕用户注册、激活、留存、转化，SQL分析、实验及用户召回，直接属于用户增长。",
+      "jd_completeness": "full",
+      "observations": [
+        {
+          "url": "https://www.wellcee.com/cn/join-us/shanghai-team/17804766100738917",
+          "kind": "official",
+          "outcome": "open",
+          "checked_at": "2026-10-14T16:07:15.117158+00:00",
+          "evidence": "当前官方加入我们页面明确列上海用户增长专员、完整职责要求，并公开HR官方域名邮箱和应聘岗位备注要求。属于官网公开招聘；未发送邮件，不保证受理或录用。",
+          "method": "web.open观察官方正文与公开邮件投递路径；复试语义纠正首次未知"
+        }
+      ]
+    }
+  ]
+}

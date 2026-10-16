@@ -1,0 +1,30 @@
+{
+  "sources": {
+    "alibaba": {
+      "url": "https://talent.alibaba.com/",
+      "kind": "official",
+      "enabled": true
+    },
+    "bytedance": {
+      "url": "https://jobs.bytedance.com/experienced/",
+      "kind": "official",
+      "enabled": true
+    },
+    "kimi": {
+      "url": "https://careers.kimi.com/",
+      "kind": "official",
+      "enabled": true
+    },
+    "boss": {
+      "url": "https://www.zhipin.com/",
+      "kind": "third_party",
+      "enabled": true
+    },
+    "liepin": {
+      "url": "https://www.liepin.com/",
+      "kind": "third_party",
+      "enabled": true
+    }
+  },
+  "note": "China-market starting entries, not verified job links or hiring evidence. Adapt to market; local overrides win."
+}
